@@ -48,15 +48,6 @@ I didn't receive any help from other people nor third parties. I also didn't hel
   - [x] if you implement it so that it can look for Sets, you will receive EXTRA CREDIT
   - [x] if you implement it so that it makes other smarter play routines, you will receive EXTRA CREDIT
 
-### Deadlines and Disclaimers
-
-- [x] By the intermediate deadline, you should turn in a description of the classes you intend to create, along with the specification of their attributes and methods. You may change these choices later, but you must submit the initial design regardless.
-- [x] This project is an **OPEN** assignment (i.e. write your own code, and you're allowed to help others as long as you complete it by yourself)
-- [x] You can't copy anyone else's code, have someone else write your code for you nor submit someone else's code as your own
-- [x] Any help you receive must be documented, including discussion with other people, books, papers, and web resources (all documented in the `README.md` file):
-  - [x] if you received no help, say so
-  - [x] if you helped someone else, say so
-
 ### Extra Credit
 
 - [x] The card display in the UI is minimalist. There are card images available in the folder ~`lscards`~ `cards`; use them to spruce up the appearance of your game _(+5pts)_
