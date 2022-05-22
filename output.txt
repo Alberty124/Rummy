@@ -1,0 +1,368 @@
+Initial Player 1: AH, 2C, 2D, 7C, 7D, 7S, 9C, TS, KD
+Initial Player 2: 4H, 4S, 5C, 5H, TD, JC, JD, KH, KS
+Player 1
+	Added from Stack: 9S
+	Laying 7C
+	Laying 7D
+	Laying 7S
+	Discarded: 2D
+	Hand now: AH, 2C, 9C, 9S, TS, KD
+Player 2
+	Added from Stack: 2D
+	Discarded: 5C
+	Hand now: 2D, 4H, 4S, 5H, TD, JC, JD, KH, KS
+Player 1
+	Added from Deck: 8S
+	Discarded: TS
+	Hand now: AH, 2C, 8S, 9C, 9S, KD
+Player 2
+	Added from Stack: TS
+	Discarded: TD
+	Hand now: 2D, 4H, 4S, 5H, TS, JC, JD, KH, KS
+Player 1
+	Added from Deck: 4C
+	Discarded: 8S
+	Hand now: AH, 2C, 4C, 9C, 9S, KD
+Player 2
+	Added from Stack: 8S
+	Discarded: 8S
+	Hand now: 2D, 4H, 4S, 5H, TS, JC, JD, KH, KS
+Player 1
+	Added from Stack: 8S
+	Discarded: AH
+	Hand now: 2C, 4C, 8S, 9C, 9S, KD
+Player 2
+	Added from Stack: AH
+	Discarded: KS
+	Hand now: AH, 2D, 4H, 4S, 5H, TS, JC, JD, KH
+Player 1
+	Added from Deck: QS
+	Discarded: QS
+	Hand now: 2C, 4C, 8S, 9C, 9S, KD
+Player 2
+	Added from Stack: QS
+	Discarded: 4S
+	Hand now: AH, 2D, 4H, 5H, TS, JC, JD, QS, KH
+Player 1
+	Added from Deck: 3H
+	Discarded: 9S
+	Hand now: 2C, 3H, 4C, 8S, 9C, KD
+Player 2
+	Added from Deck: 5D
+	Discarded: KH
+	Hand now: AH, 2D, 4H, 5D, 5H, TS, JC, JD, QS
+Player 1
+	Added from Stack: KH
+	Discarded: KD
+	Hand now: 2C, 3H, 4C, 8S, 9C, KH
+Player 2
+	Added from Deck: 8C
+	Discarded: AH
+	Hand now: 2D, 4H, 5D, 5H, 8C, TS, JC, JD, QS
+Player 1
+	Added from Stack: AH
+	Discarded: 2C
+	Hand now: AH, 3H, 4C, 8S, 9C, KH
+Player 2
+	Added from Deck: 2H
+	Discarded: 8C
+	Hand now: 2D, 2H, 4H, 5D, 5H, TS, JC, JD, QS
+Player 1
+	Added from Stack: 8C
+	Discarded: KH
+	Hand now: AH, 3H, 4C, 8C, 8S, 9C
+Player 2
+	Added from Deck: KC
+	Discarded: 2H
+	Hand now: 2D, 4H, 5D, 5H, TS, JC, JD, QS, KC
+Player 1
+	Added from Stack: 2H
+	Discarded: 2H
+	Hand now: AH, 3H, 4C, 8C, 8S, 9C
+Player 2
+	Added from Deck: 7H
+	Discarded: TS
+	Hand now: 2D, 4H, 5D, 5H, 7H, JC, JD, QS, KC
+Player 1
+	Added from Deck: AS
+	Discarded: 8C
+	Hand now: AH, AS, 3H, 4C, 8S, 9C
+Player 2
+	Added from Stack: 8C
+	Discarded: 5D
+	Hand now: 2D, 4H, 5H, 7H, 8C, JC, JD, QS, KC
+Player 1
+	Added from Stack: 5D
+	Discarded: 9C
+	Hand now: AH, AS, 3H, 4C, 5D, 8S
+Player 2
+	Added from Stack: 9C
+	Discarded: 7H
+	Hand now: 2D, 4H, 5H, 8C, 9C, JC, JD, QS, KC
+Player 1
+	Added from Stack: 7H
+	Discarded: 5D
+	Hand now: AH, AS, 3H, 4C, 7H, 8S
+Player 2
+	Added from Stack: 5D
+	Discarded: 8C
+	Hand now: 2D, 4H, 5D, 5H, 9C, JC, JD, QS, KC
+Player 1
+	Added from Deck: 2S
+	Discarded: 7H
+	Hand now: AH, AS, 2S, 3H, 4C, 8S
+Player 2
+	Added from Deck: 8D
+	Discarded: 4H
+	Hand now: 2D, 5D, 5H, 8D, 9C, JC, JD, QS, KC
+Player 1
+	Added from Stack: 4H
+	Discarded: AH
+	Hand now: AS, 2S, 3H, 4C, 4H, 8S
+Player 2
+	Added from Stack: AH
+	Discarded: JC
+	Hand now: AH, 2D, 5D, 5H, 8D, 9C, JD, QS, KC
+Player 1
+	Added from Stack: JC
+	Discarded: AS
+	Hand now: 2S, 3H, 4C, 4H, 8S, JC
+Player 2
+	Added from Deck: 9H
+	Discarded: KC
+	Hand now: AH, 2D, 5D, 5H, 8D, 9C, 9H, JD, QS
+Player 1
+	Added from Stack: KC
+	Discarded: 4H
+	Hand now: 2S, 3H, 4C, 8S, JC, KC
+Player 2
+	Added from Stack: 4H
+	Discarded: JD
+	Hand now: AH, 2D, 4H, 5D, 5H, 8D, 9C, 9H, QS
+Player 1
+	Added from Deck: QH
+	Discarded: 3H
+	Hand now: 2S, 4C, 8S, JC, QH, KC
+Player 2
+	Added from Stack: 3H
+	Discarded: 4H
+	Hand now: AH, 2D, 3H, 5D, 5H, 8D, 9C, 9H, QS
+Player 1
+	Added from Stack: 4H
+	Discarded: 4C
+	Hand now: 2S, 4H, 8S, JC, QH, KC
+Player 2
+	Added from Deck: 6C
+	Discarded: 3H
+	Hand now: AH, 2D, 5D, 5H, 6C, 8D, 9C, 9H, QS
+Player 1
+	Added from Deck: 3C
+	Discarded: KC
+	Hand now: 2S, 3C, 4H, 8S, JC, QH
+Player 2
+	Added from Stack: KC
+	Discarded: AH
+	Hand now: 2D, 5D, 5H, 6C, 8D, 9C, 9H, QS, KC
+Player 1
+	Added from Stack: AH
+	Discarded: 4H
+	Hand now: AH, 2S, 3C, 8S, JC, QH
+Player 2
+	Added from Stack: 4H
+	Discarded: 5D
+	Hand now: 2D, 4H, 5H, 6C, 8D, 9C, 9H, QS, KC
+Player 1
+	Added from Stack: 5D
+	Discarded: AH
+	Hand now: 2S, 3C, 5D, 8S, JC, QH
+Player 2
+	Added from Stack: AH
+	Discarded: 2D
+	Hand now: AH, 4H, 5H, 6C, 8D, 9C, 9H, QS, KC
+Player 1
+	Added from Stack: 2D
+	Discarded: QH
+	Hand now: 2D, 2S, 3C, 5D, 8S, JC
+Player 2
+	Added from Stack: QH
+	Discarded: 6C
+	Hand now: AH, 4H, 5H, 8D, 9C, 9H, QH, QS, KC
+Player 1
+	Added from Stack: 6C
+	Discarded: 2D
+	Hand now: 2S, 3C, 5D, 6C, 8S, JC
+Player 2
+	Added from Deck: 6S
+	Discarded: QH
+	Hand now: AH, 4H, 5H, 6S, 8D, 9C, 9H, QS, KC
+Player 1
+	Added from Stack: QH
+	Discarded: QH
+	Hand now: 2S, 3C, 5D, 6C, 8S, JC
+Player 2
+	Added from Deck: QC
+	Discarded: KC
+	Hand now: AH, 4H, 5H, 6S, 8D, 9C, 9H, QC, QS
+Player 1
+	Added from Stack: KC
+	Discarded: KC
+	Hand now: 2S, 3C, 5D, 6C, 8S, JC
+Player 2
+	Added from Stack: KC
+	Discarded: KC
+	Hand now: AH, 4H, 5H, 6S, 8D, 9C, 9H, QC, QS
+Player 1
+	Added from Deck: AC
+	Discarded: JC
+	Hand now: AC, 2S, 3C, 5D, 6C, 8S
+Player 2
+	Added from Stack: JC
+	Discarded: QC
+	Hand now: AH, 4H, 5H, 6S, 8D, 9C, 9H, JC, QS
+Player 1
+	Added from Stack: QC
+	Discarded: 6C
+	Hand now: AC, 2S, 3C, 5D, 8S, QC
+Player 2
+	Added from Deck: JH
+	Discarded: 4H
+	Hand now: AH, 5H, 6S, 8D, 9C, 9H, JC, JH, QS
+Player 1
+	Added from Stack: 4H
+	Discarded: 8S
+	Hand now: AC, 2S, 3C, 4H, 5D, QC
+Player 2
+	Added from Stack: 8S
+	Discarded: 9C
+	Hand now: AH, 5H, 6S, 8D, 8S, 9H, JC, JH, QS
+Player 1
+	Added from Deck: TH
+	Discarded: AC
+	Hand now: 2S, 3C, 4H, 5D, TH, QC
+Player 2
+	Added from Deck: 3D
+	Discarded: AH
+	Hand now: 3D, 5H, 6S, 8D, 8S, 9H, JC, JH, QS
+Player 1
+	Added from Stack: AH
+	Discarded: QC
+	Hand now: AH, 2S, 3C, 4H, 5D, TH
+Player 2
+	Added from Deck: 5S
+	Discarded: 6S
+	Hand now: 3D, 5H, 5S, 8D, 8S, 9H, JC, JH, QS
+Player 1
+	Added from Deck: 6H
+	Discarded: 2S
+	Hand now: AH, 3C, 4H, 5D, 6H, TH
+Player 2
+	Added from Stack: 2S
+	Discarded: 2S
+	Hand now: 3D, 5H, 5S, 8D, 8S, 9H, JC, JH, QS
+Player 1
+	Added from Deck: 8H
+	Discarded: 5D
+	Hand now: AH, 3C, 4H, 6H, 8H, TH
+Player 2
+	Added from Deck: TC
+	Discarded: 8D
+	Hand now: 3D, 5H, 5S, 8S, 9H, TC, JC, JH, QS
+Player 1
+	Added from Deck: 4D
+	Discarded: 6H
+	Hand now: AH, 3C, 4D, 4H, 8H, TH
+Player 2
+	Added from Stack: 6H
+	Discarded: 6H
+	Hand now: 3D, 5H, 5S, 8S, 9H, TC, JC, JH, QS
+Player 1
+	Added from Stack: 6H
+	Discarded: 4H
+	Hand now: AH, 3C, 4D, 6H, 8H, TH
+Player 2
+	Added from Stack: 4H
+	Discarded: QS
+	Hand now: 3D, 4H, 5H, 5S, 8S, 9H, TC, JC, JH
+Player 1
+	Added from Deck: JS
+	Discarded: 3C
+	Hand now: AH, 4D, 6H, 8H, TH, JS
+Player 2
+	Added from Stack: 3C
+	Discarded: 5S
+	Hand now: 3C, 3D, 4H, 5H, 8S, 9H, TC, JC, JH
+Player 1
+	Added from Stack: 5S
+	Discarded: TH
+	Hand now: AH, 4D, 5S, 6H, 8H, JS
+Player 2
+	Added from Stack: TH
+	Discarded: 9H
+	Hand now: 3C, 3D, 4H, 5H, 8S, TC, TH, JC, JH
+Player 1
+	Added from Stack: 9H
+	Discarded: 6H
+	Hand now: AH, 4D, 5S, 8H, 9H, JS
+Player 2
+	Added from Stack: 6H
+	Discarded: 4H
+	Hand now: 3C, 3D, 5H, 6H, 8S, TC, TH, JC, JH
+Player 1
+	Added from Deck: QD
+	Discarded: 4D
+	Hand now: AH, 5S, 8H, 9H, JS, QD
+Player 2
+	Added from Deck: AD
+	Discarded: 8S
+	Hand now: AD, 3C, 3D, 5H, 6H, TC, TH, JC, JH
+Player 1
+	Added from Stack: 8S
+	Discarded: 8H
+	Hand now: AH, 5S, 8S, 9H, JS, QD
+Player 2
+	Added from Stack: 8H
+	Discarded: TH
+	Hand now: AD, 3C, 3D, 5H, 6H, 8H, TC, JC, JH
+Player 1
+	Added from Stack: TH
+	Discarded: 9H
+	Hand now: AH, 5S, 8S, TH, JS, QD
+Player 2
+	Added from Deck: 6D
+	Discarded: 6H
+	Hand now: AD, 3C, 3D, 5H, 6D, 8H, TC, JC, JH
+Player 1
+	Added from Stack: 6H
+	Discarded: JS
+	Hand now: AH, 5S, 6H, 8S, TH, QD
+Player 2
+	Added from Stack: JS
+	Laying JC
+	Laying JH
+	Laying JS
+	Discarded: 5H
+	Hand now: AD, 3C, 3D, 6D, 8H, TC
+Player 1
+	Added from Stack: 5H
+	Discarded: 8S
+	Hand now: AH, 5H, 5S, 6H, TH, QD
+Player 2
+	Added from Stack: 8S
+	Discarded: AD
+	Hand now: 3C, 3D, 6D, 8H, 8S, TC
+Player 1
+	Added from Deck: 3S
+	Discarded: QD
+	Hand now: AH, 3S, 5H, 5S, 6H, TH
+Player 2
+	Added from Stack: QD
+	Discarded: QD
+	Hand now: 3C, 3D, 6D, 8H, 8S, TC
+Player 1
+	Added from Stack: QD
+	Discarded: 3S
+	Hand now: AH, 5H, 5S, 6H, TH, QD
+Player 2
+	Added from Deck: 9D
+Points: 37 (P1) vs. 47 (P2)
+Player 1 Wins!
