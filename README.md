@@ -52,4 +52,3 @@ I didn't receive any help from other people nor third parties. I also didn't hel
 
 - [x] The card display in the UI is minimalist. There are card images available in the folder ~`lscards`~ `cards`; use them to spruce up the appearance of your game _(+5pts)_
 - [x] Modify the `Table` so that the game begins with the first card being on the Stack _(+5pts)_
-- [x] ~Add some heuristics to improve performance in automated play (discussing each rule you add and why you expect it to improve performance in your `README.md` file) _(+2pts per rule added, for a max of 4 rules)_~
